@@ -1,0 +1,25 @@
+{
+  "OverlapBehavior": "Overwrite",
+  "Duration": 10,
+  "DamageCalculatorCooldown": 0.1,
+  "ApplicationEffects": {
+    "Particles": [
+      {
+        "SystemId": "Potion_Stamina_Burst"
+      }
+    ],
+    "WorldSoundEventId": "SFX_Stamina_Potion_Success"
+  },
+  "StatusEffectIcon": "UI/StatusEffects/Stamina/Tiny.png",
+  "RawStatModifiers": {
+    "Stamina": [
+      {
+        "CalculationType": "Multiplicative",
+        "Amount": 1.1
+      }
+    ]
+  },
+  "StatModifiers": {
+    "Stamina": 0.03
+  }
+}

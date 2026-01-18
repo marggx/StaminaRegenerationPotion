@@ -1,0 +1,20 @@
+{
+  "Group": "Marggx",
+  "Name": "StaminaRegenerationPotion",
+  "Version": "1.0.0",
+  "Description": "Changes the stamina Potion to add stamina regeneration instead of instantly",
+  "Authors": [
+    {
+      "Name": "Marggx",
+      "Email": "hytale@marggx.dev",
+      "Url": "marggx.dev"
+    }
+  ],
+  "Website": "marggx.dev",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
