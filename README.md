@@ -1,4 +1,4 @@
-# USE CREATOR CODE: MARGGX
+# Help me by using Creator Code: Marggx
 ## This plugin changes the stamina potion to add stamina regeneration instead of instantly
 * Lesser Stamina Potion: Adds Stamina Boost I effect for 10 seconds
 * Greater Stamina Potion: Adds Stamina Boost II effect for 15 seconds
